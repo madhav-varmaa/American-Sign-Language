@@ -8,7 +8,7 @@ This project focuses on recognizing American Sign Language (ASL) hand signs usin
 
 - Built using Deep Learning (CNNs) for high-accuracy image classification.
 - Falls under Computer Vision and Gesture Recognition domains.
-- Enables real-time ASL recognition for assistive communication.
+- Enables real-time ASL alphabet recognition for assistive communication.
 - Contributes to AI for Accessibility by bridging the gap between spoken and sign language.
 
 ## Domains Covered
