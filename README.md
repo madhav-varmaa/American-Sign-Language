@@ -23,33 +23,34 @@ This project focuses on recognizing American Sign Language (ASL) hand signs usin
 ### 1. Dataset Preparation
 
 - Collected a dataset of ASL hand signs (A–Z alphabets and/or numbers).
-
 - Images were resized, normalized, and augmented (rotation, flipping, zoom) to improve generalization.
 
 ### 2. Model Architecture
 
 - Implemented a Convolutional Neural Network (CNN)
-
 - Convolution + MaxPooling layers for feature extraction.
-
 - Dropout layers to prevent overfitting.
-
 - Batch Normalization layers for faster convergence and better generalization.
 
 ### 3. Training
 
 - Model trained on the dataset using categorical cross-entropy loss and Adam optimizer.
-
 - Achieved high accuracy in recognizing different ASL gestures.
 
 ### 4. Evaluation
 
 - Tested the model on unseen images to validate performance.
-
 - Evaluated using accuracy, precision, recall, and confusion matrix.
 
 ### 5. Prediction
 
 - Input: Hand sign image.
-
 - Output: Predicted ASL alphabet/gesture.
+
+### 6. Result
+
+<img width="1224" height="464" alt="image" src="https://github.com/user-attachments/assets/44d7c183-2bfc-4ec4-ae21-ea9eb56013af" />
+
+
+<img width="265" height="56" alt="image" src="https://github.com/user-attachments/assets/e4a5e71a-ccaa-4ad7-9ca7-accc279cb391" />
+
