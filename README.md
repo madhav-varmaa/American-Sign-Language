@@ -54,3 +54,9 @@ This project focuses on recognizing American Sign Language (ASL) hand signs usin
 
 <img width="265" height="56" alt="image" src="https://github.com/user-attachments/assets/e4a5e71a-ccaa-4ad7-9ca7-accc279cb391" />
 
+### 7. Limitations
+
+- It predicts only static alphabet signs.
+- It does not include predictions of J and Z which are motion based signs as per American Sign Language usage.
+- Background disturbances and noise tend to reduce the prediction accuracy at times.
+
