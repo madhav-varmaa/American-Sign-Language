@@ -42,19 +42,16 @@ This project focuses on recognizing American Sign Language (ASL) hand signs usin
 - Tested the model on unseen images to validate performance.
 - Evaluated using accuracy, precision, recall, and confusion matrix.
 
+- <img width="1224" height="464" alt="image" src="https://github.com/user-attachments/assets/44d7c183-2bfc-4ec4-ae21-ea9eb56013af" />
+
+- <img width="265" height="56" alt="image" src="https://github.com/user-attachments/assets/e4a5e71a-ccaa-4ad7-9ca7-accc279cb391" />
+
 ### 5. Prediction
 
 - Input: Hand sign image.
 - Output: Predicted ASL alphabet/gesture.
 
-### 6. Result
-
-<img width="1224" height="464" alt="image" src="https://github.com/user-attachments/assets/44d7c183-2bfc-4ec4-ae21-ea9eb56013af" />
-
-
-<img width="265" height="56" alt="image" src="https://github.com/user-attachments/assets/e4a5e71a-ccaa-4ad7-9ca7-accc279cb391" />
-
-### 7. Limitations
+### 6. Limitations
 
 - It predicts only static alphabet signs.
 - It does not include predictions of J and Z which are motion based signs as per American Sign Language usage.
