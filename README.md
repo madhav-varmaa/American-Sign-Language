@@ -13,10 +13,10 @@ This project focuses on recognizing American Sign Language (ASL) hand signs usin
 
 ## Domains Covered
 
--Deep Learning.
--Computer Vision.
--Image Classification.
--Gesture Recognition.
+- Deep Learning
+- Computer Vision
+- Image Classification
+- Gesture Recognition
 
 ## How It Works
 
